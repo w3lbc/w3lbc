@@ -15,4 +15,18 @@ Community powers
 
 <a href="https://github.com/623637646/996.Leave">996.Leave</a> encourage & introduce working overseas.
 
+
+特别喜欢这位新加披的朋友<a href="https://github.com/623637646/996.Leave">996.Leave</a> encourage & introduce working overseas.的几句话:
+
+<H1>如果你向往自由，公正
+
+如果你喜欢挑战
+
+如果你喜欢体验不同的生活
+
+世界那么大，出去看看吧。
+
+很多事情你无法改变，但可以选择离开</H1>
+
+
 world wide work life balance consortium
