@@ -1,16 +1,7 @@
-# w3lbc
-world wide work life balance consortium
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
 工作和生活真的需要平衡，一个人来到这个世界，不是为了受苦受难的。
 
 感谢,为程序员呐喊的所有朋友们，你们是最伟大的，最可爱的人。
 
-955.WLB 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
-
-996.LAW 法律板块，此 repo 主要收集大家的仲裁、民事诉讼信息。
-
-996.LIST 此 repo 为 996 和 955 的匿名投票列表。
-
-996.Leave 介绍鼓励海外工作。
-
-996.RIP 不要忘记旧闻。
+world wide work life balance consortium
